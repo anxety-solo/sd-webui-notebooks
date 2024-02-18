@@ -13,17 +13,22 @@ English | [Русский ](./README-ru_RU.md)
 		<img src="/SVG/en/discord-en.svg" width="800" height="130" alt="discord">
 	</a>
 	<br>
-	<a href="https://studiolab.sagemaker.aws/import/github/anxety-solo/sd-webui-sagemaker/blob/main/notebooks/sagemaker/en/anxety-sdw_en.ipynb">
+	<a href="https://studiolab.sagemaker.aws/import/github/anxety-solo/sd-webui-sagemaker/blob/main/notebooks/en/anxety-sdw_ru.ipynb">
 		<img src="/SVG/en/sagemaker-en.svg" width="800" height="180" alt="sagemaker">
 	</a>
 	<br>
-	<a href="https://www.kaggle.com/anxetysolo/anxety-sdw-en">
+	<a href="https://www.kaggle.com/ayamanaox2/anxety-sdw-ru">
 		<img src="/SVG/en/kaggle-en.svg" width="800" height="180" alt="kaggle">
+	</a>
+	<br>	
+      <a href="https://colab.research.google.com/drive/1rcF0WFmkwWEy_hqG1uvXpal22IijheXK">
+		<img src="/SVG/en/colab-en.svg" width="800" height="180" alt="colab">
 	</a>
 </div>
 
 
 ## 🌟 Features:
+  - Multiplatform: Google Colab, Kaggle, Sagemaker Studio Lab.
   - Widgets for easy interaction.
   - Preset custom settings + styles.
 
