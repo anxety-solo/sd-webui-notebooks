@@ -13,7 +13,7 @@ English | [Русский ](./README-ru_RU.md)
 		<img src="/SVG/en/discord-en.svg" width="800" height="130" alt="discord">
 	</a>
 	<br>
-	<a href="https://studiolab.sagemaker.aws/import/github/anxety-solo/sd-webui-sagemaker/blob/main/notebooks/en/anxety-sdw_en.ipynb">
+	<a href="https://studiolab.sagemaker.aws/import/github/anxety-solo/sd-webui-sagemaker/blob/dev/notebooks/en/anxety-sdw_en.ipynb">
 		<img src="/SVG/en/sagemaker-en.svg" width="800" height="180" alt="sagemaker">
 	</a>
 	<br>
