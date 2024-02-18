@@ -2,7 +2,7 @@
 This thread will be updated until the problems found are fixed:
 
 * sagemaker - notebook not working...
-* Extensions are not updating...
+* Extensions are not updating... fixed?
 * And something else... I don't know :c
 ```
 
