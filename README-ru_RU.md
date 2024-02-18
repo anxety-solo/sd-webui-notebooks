@@ -22,7 +22,7 @@
 	</a>
 	<br>	
       <a href="https://colab.research.google.com/drive/1rcF0WFmkwWEy_hqG1uvXpal22IijheXK">
-		<img src="/SVG/en/colab-ru.svg" width="800" height="180" alt="colab">
+		<img src="/SVG/ru/colab-ru.svg" width="800" height="180" alt="colab">
 	</a>
 </div>
 
