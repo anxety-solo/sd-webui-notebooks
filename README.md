@@ -28,7 +28,7 @@ English | [Русский ](./README-ru_RU.md)
 
 
 ## 🌟 Features:
-  - Multiplatform: Google Colab, Kaggle, Sagemaker Studio Lab.
+  - Multiplatform: Google Colab (Pro), Kaggle, Sagemaker Studio Lab.
   - Widgets for easy interaction.
   - Preset custom settings + styles.
 
