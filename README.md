@@ -17,11 +17,11 @@ English | [Русский ](./README-ru_RU.md)
 		<img src="/SVG/en/sagemaker-en.svg" width="800" height="180" alt="sagemaker">
 	</a>
 	<br>
-	<a href="https://www.kaggle.com/ayamanaox2/anxety-sdw-ru">
+	<a href="https://www.kaggle.com/ayamanaox2/anxety-sdw-en">
 		<img src="/SVG/en/kaggle-en.svg" width="800" height="180" alt="kaggle">
 	</a>
 	<br>	
-      <a href="https://colab.research.google.com/drive/1rcF0WFmkwWEy_hqG1uvXpal22IijheXK">
+      <a href="https://colab.research.google.com/drive/1xVRHNi0_5Vi4s3H0ps8hVncMxEKFGWUp">
 		<img src="/SVG/en/colab-en.svg" width="800" height="180" alt="colab">
 	</a>
 </div>
