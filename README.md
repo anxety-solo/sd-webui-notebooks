@@ -1,3 +1,12 @@
+```
+This thread will be updated until the problems found are fixed:
+
+* sagemaker - notebook not working...
+* Extensions are not updating...
+* And something else... I don't know :c
+```
+
+
 <div align="center">
 
 <h1 align="center">~ ANXETY | Stable Diffusion WebUI | NoteBook ~</h1>
