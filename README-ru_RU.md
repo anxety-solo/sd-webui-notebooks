@@ -72,6 +72,6 @@
 
 <div align="center"> 
   
-  ![Виджеты](https://github.com/anxety-solo/sd-webui-sagemaker/blob/main/img/ru/ANRED_widgets_view_ru.png)
+  ![Виджеты](/img/ru/ANRED_widgets_view_ru.png)
       
 </div>
