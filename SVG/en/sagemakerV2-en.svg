@@ -1,0 +1,123 @@
+<svg fill="none" viewBox="0 0 800 130" width="800" height="130" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+				@keyframes rotateLabelH2 {
+					0% {
+						transform: rotate(0.5deg);
+					}
+					100% {
+						transform: rotate(-0.5deg);
+					}
+				}
+
+                @keyframes gradientBackground {
+                    0% {
+                        background-position: 0% 50%;
+                    }
+                    50% {
+                        background-position: 100% 50%;
+                    }
+                    100% {
+                        background-position: 0% 50%;
+                    }
+                }
+
+                @keyframes fadeIn {
+                    0% {
+                        opacity: 0;
+                        transform: translateX(-50%) translateY(50%);
+                    }
+                    66% {
+                        opacity: 0;
+                        transform: translateX(-50%) translateY(50%);
+                    }
+                    100% {
+                        opacity: 0.25;
+                        transform: translateX(-50%) translateY(0%);
+                    }
+                }
+
+                .container {
+                    position: relative;
+                    width: auto;
+                    height: 120px;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                    background: linear-gradient(-45deg, #ffffff, #D7BDE2, #ffffff);
+                    background-size: 600% 400%;
+                    animation: gradientBackground 10s ease infinite;
+                    border-radius: 10px;
+                    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+                    user-select: none;
+                }
+
+                .source {
+                    position: absolute;
+                    top: 80px;
+                    left: 50%;
+                    opacity: 0;
+                    transform: translateX(-50%) translateY(50%);
+                    transition: 0.5s all;
+                    animation: 3s ease 2s normal forwards 1 fadeIn;
+                }
+
+                .h1 {
+                    position: absolute;
+                    top: 20%;
+                    left: 8%;
+                    color: #2C3E50;
+                    font-size: 40px;
+                    font-weight: bold;
+                    letter-spacing: 10px;
+                    text-shadow:
+                        0 1px 0 #17202A,
+                        0 2px 0 #17202A,
+                        0 3px 0 #17202A,
+                        0 4px 0 #17202A,
+                        0 12px 5px rgba(0, 0, 0, 0.1);
+                    white-space: nowrap;
+                }
+
+                .h2 {
+                    position: absolute;
+                    top: 5%;
+                    right: 8%;
+                    color: #1E90FF;
+                    font-size: 60px;
+                    font-weight: bold;
+                    letter-spacing: 8px;
+                    text-transform: uppercase;
+                    text-shadow:
+                        0 1px 0 #1470C8,
+                        0 2px 0 #1470C8,
+                        0 3px 0 #1470C8,
+                        0 4px 0 #1470C8,
+                        0 12px 5px rgba(0, 0, 0, 0.1);
+                    animation: rotateLabelH2 ease-in-out 1s infinite alternate;
+                }
+
+                .p {
+                    color: #232323;
+                    font-size: 25px;
+                    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+                    white-space: nowrap;
+                    font-weight: bold;
+                }
+            </style>
+            
+            <div class="container">
+                <div class="label">
+                    <span class="h1">Open In</span>
+                    <span class="h2">SageMaker</span>
+                </div>
+
+                <div class="source">
+                    <span class="p">Click to copy Notebook</span>
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>

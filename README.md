@@ -23,7 +23,7 @@ English | [Русский ](./README-ru_RU.md)
 	</a>
 	<br>
 	<a href="https://studiolab.sagemaker.aws/import/github/anxety-solo/sd-webui-sagemaker/blob/dev/notebooks/en/anxety-sdw_en.ipynb">
-		<img src="/SVG/en/sagemaker-en.svg" width="800" height="180" alt="sagemaker">
+		<img src="/SVG/en/sagemakerV2-en.svg" width="800" height="180" alt="sagemaker">
 	</a>
 	<br>
 	<a href="https://www.kaggle.com/ayamanaox2/anxety-sdw-en">
