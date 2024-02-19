@@ -68,28 +68,28 @@
                 }
 
                 h1 {
-                    color: #ffffff;
+                    color: #8DFFDD;
                     font-size: 45px;
                     letter-spacing: 10px;
     				text-shadow:
-    					0 1px 0 #9e9d9d,
-    					0 2px 0 #9e9d9d,
-    					0 3px 0 #9e9d9d,
-    					0 4px 0 #9e9d9d,
+    					0 1px 0 #2D9E7C,
+    					0 2px 0 #2D9E7C,
+    					0 3px 0 #2D9E7C,
+    					0 4px 0 #2D9E7C,
     					0 12px 5px rgba(0, 0, 0, 0.1);
                     margin-bottom: 0;
                 }
 
                 h2 {
-                    color: #E8DAEF;
+                    color: #ffffff;
                     font-size: 70px;
                     letter-spacing: 15px;
                     text-transform: uppercase;
                     text-shadow:
-                        0 1px 0 #BB8FCE,
-                        0 2px 0 #BB8FCE,
-                        0 3px 0 #BB8FCE,
-                        0 4px 0 #BB8FCE,
+                        0 1px 0 #9e9d9d,
+                        0 2px 0 #9e9d9d,
+                        0 3px 0 #9e9d9d,
+                        0 4px 0 #9e9d9d,
                         0 12px 5px rgba(0, 0, 0, 0.1);
                     margin-top: 0;
                     animation: letterSpacingH2 ease-in-out 1s infinite alternate;
