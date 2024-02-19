@@ -1,9 +1,9 @@
 ```
-This thread will be updated until the problems found are fixed:
+А?:
 
-* sagemaker - notebook not working...
-* Extensions are not updating... fixed
-* And something else... I don't know :c
+* SageMaker - notebook not working - ``Is it working? Maybe... Yes?
+* Extensions not updating - Fixed.
+* Anything else? - Looking for all sorts of bugs :p
 ```
 
 
