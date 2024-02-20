@@ -21,15 +21,12 @@ English | [Русский ](./README-ru_RU.md)
 	<a href="https://lookup.guru/565783561878372352">
 		<img src="/SVG/en/discord-en.svg" width="800" height="130" alt="discord">
 	</a>
-	<br>
 	<a href="https://studiolab.sagemaker.aws/import/github/anxety-solo/sd-webui-sagemaker/blob/dev/notebooks/en/anxety-sdw_en.ipynb">
 		<img src="/SVG/en/sagemakerV2-en.svg" width="800" height="130" alt="sagemaker">
 	</a>
-	<br>
 	<a href="https://www.kaggle.com/ayamanaox2/anxety-sdw-en">
 		<img src="/SVG/en/kaggle-en.svg" width="800" height="180" alt="kaggle">
 	</a>
-	<br>	
       <a href="https://colab.research.google.com/drive/1xVRHNi0_5Vi4s3H0ps8hVncMxEKFGWUp">
 		<img src="/SVG/en/colab-en.svg" width="800" height="180" alt="colab">
 	</a>
