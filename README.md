@@ -51,7 +51,7 @@ English | [Русский ](./README-ru_RU.md)
 - [ControlNet](https://github.com/Mikubill/sd-webui-controlnet)
 - [infinite-image-browsing](https://github.com/zanllp/sd-webui-infinite-image-browsing)
 - [lora-block-weight](https://github.com/hako-mikan/sd-webui-lora-block-weight)
-- [ncpt_colab_timer](https://github.com/NoCrypt/ncpt_colab_timer) - edit me
+- [ncpt_colab_timer](https://github.com/NoCrypt/ncpt_colab_timer) - edited by me
 - [neutral-prompt](https://github.com/ljleb/sd-webui-neutral-prompt)
 - [regional-prompter](https://github.com/hako-mikan/sd-webui-regional-prompter)
 - [state](https://github.com/ilian6806/stable-diffusion-webui-state)
