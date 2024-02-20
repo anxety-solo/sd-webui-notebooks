@@ -1,5 +1,6 @@
 ```
-Фактически, теперь это полностью рабочий ноутбук, осталось только проверить все, что можно (кроме colab - нет возможности) и все! :3
+Фактически, теперь это полностью рабочий ноутбук, осталось только проверить все,
+что можно (кроме colab - нет возможности) и все! :3
 ```
 
 
@@ -17,21 +18,17 @@
 	<a href="https://lookup.guru/565783561878372352">
 		<img src="/SVG/ru/discord-ru.svg" width="800" height="130" alt="discord">
 	</a>
-
 	<a href="https://studiolab.sagemaker.aws/import/github/anxety-solo/sd-webui-sagemaker/blob/dev/notebooks/ru/anxety-sdw_ru.ipynb">
 		<img src="/SVG/ru/sagemaker-ru.svg" width="800" height="160" alt="sagemaker">
 	</a>
-
 	<a href="https://www.kaggle.com/ayamanaox2/anxety-sdw-ru">
 		<img src="/SVG/ru/kaggle-ru.svg" width="800" height="160" alt="kaggle">
 	</a>
-
       <a href="https://colab.research.google.com/drive/1rcF0WFmkwWEy_hqG1uvXpal22IijheXK">
 		<img src="/SVG/ru/colab-ru.svg" width="800" height="160" alt="colab">
 	</a>
 	</br>
 </div>
-
 
 
 ## 🌟 Особенности:
