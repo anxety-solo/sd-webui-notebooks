@@ -1,9 +1,3 @@
-```
-Фактически, теперь это полностью рабочий ноутбук, осталось только проверить все,
-что можно (кроме colab - нет возможности) и все! :3
-```
-
-
 <div align="center">
 
 <h1 align="center">~ ANXETY | Stable Diffusion WebUI | NoteBook ~</h1>

@@ -1,9 +1,3 @@
-```
-In fact, it's now a fully working laptop, all that's left is to check everything
-you can (except colab - no possibility) and that's it! :3
-```
-
-
 <div align="center">
 
 <h1 align="center">~ ANXETY | Stable Diffusion WebUI | NoteBook ~</h1>
