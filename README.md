@@ -1,9 +1,5 @@
 ```
-А?:
-
-* SageMaker - notebook not working - ``Is it working? Maybe... Yes?
-* Extensions not updating - Fixed.
-* Anything else? - Looking for all sorts of bugs :p
+In fact, it's now a fully working laptop, all that's left is to check everything you can (except colab - no possibility) and that's it! :3
 ```
 
 
@@ -17,19 +13,23 @@ English | [Русский ](./README-ru_RU.md)
 
 
 <div align="center">
-	<br>
+	</br>
 	<a href="https://lookup.guru/565783561878372352">
 		<img src="/SVG/en/discord-en.svg" width="800" height="130" alt="discord">
 	</a>
+	
 	<a href="https://studiolab.sagemaker.aws/import/github/anxety-solo/sd-webui-sagemaker/blob/dev/notebooks/en/anxety-sdw_en.ipynb">
-		<img src="/SVG/en/sagemakerV2-en.svg" width="800" height="130" alt="sagemaker">
+		<img src="/SVG/en/sagemaker-en.svg" width="800" height="160" alt="sagemaker">
 	</a>
+	
 	<a href="https://www.kaggle.com/ayamanaox2/anxety-sdw-en">
-		<img src="/SVG/en/kaggle-en.svg" width="800" height="180" alt="kaggle">
+		<img src="/SVG/en/kaggle-en.svg" width="800" height="160" alt="kaggle">
 	</a>
+	
       <a href="https://colab.research.google.com/drive/1xVRHNi0_5Vi4s3H0ps8hVncMxEKFGWUp">
-		<img src="/SVG/en/colab-en.svg" width="800" height="180" alt="colab">
+		<img src="/SVG/en/colab-en.svg" width="800" height="160" alt="colab">
 	</a>
+	</br>
 </div>
 
 
