@@ -15,7 +15,7 @@
 	<a href="https://studiolab.sagemaker.aws/import/github/anxety-solo/sd-webui-sagemaker/blob/dev/notebooks/ru/anxety-sdw_ru.ipynb">
 		<img src="/SVG/ru/sagemaker-ru.svg" width="800" height="160" alt="sagemaker">
 	</a>
-	<a href="https://www.kaggle.com/ayamanaox2/anxety-sdw-ru">
+	<a href="https://www.kaggle.com/anxetysolo/anxety-sdw-ru">
 		<img src="/SVG/ru/kaggle-ru.svg" width="800" height="160" alt="kaggle">
 	</a>
       <a href="https://colab.research.google.com/drive/1rcF0WFmkwWEy_hqG1uvXpal22IijheXK">
@@ -52,6 +52,7 @@
 - [supermerger](https://github.com/hako-mikan/sd-webui-supermerger)
 - [tag-complete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete)
 - [wd14-tagger](https://github.com/picobyte/stable-diffusion-webui-wd14-tagger)
+- [sd-encrypt-image](https://github.com/viyiviyi/sd-encrypt-image) - новый
 
 </details>
 
@@ -60,6 +61,8 @@
 
 <div align="center"> 
   
-  ![Виджеты](/img/ru/ANRED_widgets_view_ru.png)
-      
+  ![Виджеты](/img/ru/main_widgets_ru.png)
+  </br>
+  <h6>Со временем виджеты могут изменяться/различаться.</h6>
+
 </div>
